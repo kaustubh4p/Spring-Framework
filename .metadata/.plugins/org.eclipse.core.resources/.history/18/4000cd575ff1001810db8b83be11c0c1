@@ -1,0 +1,11 @@
+package com.spring.core.bean;
+
+public class CustomerImpl implements Customer {
+
+	@Override
+	public void getDetails(String msg) {
+		System.out.println("Get Customer Message : "+ msg);
+	}
+
+	
+}

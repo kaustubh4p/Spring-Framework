@@ -1,0 +1,10 @@
+package com.spring.core.bean;
+
+/**
+ * @author KaustubhWaghmare
+ *
+ */
+public interface Customer {
+	public void getMessage(String msg);
+
+}

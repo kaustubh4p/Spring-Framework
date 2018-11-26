@@ -1,0 +1,6 @@
+package com.spring.core.bean;
+
+public interface Customer {
+	public String getDetails(String msg);
+
+}

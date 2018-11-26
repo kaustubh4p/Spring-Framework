@@ -1,0 +1,6 @@
+package com.spring.core.bean;
+
+public interface Employee {
+	public String getDetails(String msg)
+
+}

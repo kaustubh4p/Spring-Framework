@@ -1,0 +1,11 @@
+package com.spring.core.bean;
+
+public class CustomerImpl implements Customer {
+
+	@Override
+	public String getDetails(String msg) {
+		return null;
+	}
+
+	
+}
