@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;SpringCoreJavaConfigImport&apos; to &apos;SpringCoreConfigImport&apos;" description="Rename resource &apos;SpringCoreJavaConfigImport&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/SpringCoreJavaConfigImport" name="SpringCoreConfigImport" stamp="1543231493991" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;SpringCoreJavaConfig&apos; to &apos;SpringCoreConfig&apos;" description="Rename resource &apos;SpringCoreJavaConfig&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/SpringCoreJavaConfig" name="SpringCoreConfig" stamp="1543231532948" updateReferences="true"/>
+</session>
