@@ -1,0 +1,16 @@
+package com.spring.bean;
+
+public class EmployeeBean {
+	
+	private String empName;
+	private String empId;
+	
+	
+	@Override
+	public String toString() {
+		return "EmployeeBean [empName=" + empName + ", empId=" + empId + "]";
+	}
+	
+	
+
+}

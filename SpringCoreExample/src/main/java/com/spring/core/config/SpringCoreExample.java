@@ -1,0 +1,19 @@
+package com.spring.core.config;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import com.spring.core.bean.EmployeeBean;
+
+/**
+ * @author KaustubhWaghmare
+ * Simple Spring Core App
+ */
+public class SpringCoreExample {
+	public static void main(String args[])
+	{
+		ApplicationContext ctx = new ClassPathXmlApplicationContext("springBeans.xml");
+		EmployeeBean obj = (EmployeeBean) ctx.getBean("empBean");
+		System.out.println(obj.getEmployeeDetails());
+	}
+}

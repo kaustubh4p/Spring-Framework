@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+	<bean id="empBean" class="com.spring.core.bean.EmployeeBean">
+		<property name="empName" value="Kaustubh" />
+		<property name="empId" value="101" />
+	</bean>
+
+</beans>
