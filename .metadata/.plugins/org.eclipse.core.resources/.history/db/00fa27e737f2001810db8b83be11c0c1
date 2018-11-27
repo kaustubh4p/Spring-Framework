@@ -1,0 +1,7 @@
+package com.spring.core.bean;
+
+public class Human {
+	private String name;
+	private String language;
+
+}

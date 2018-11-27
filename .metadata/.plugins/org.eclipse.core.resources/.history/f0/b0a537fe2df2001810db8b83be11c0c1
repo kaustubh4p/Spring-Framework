@@ -1,0 +1,31 @@
+package com.spring.core.config;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import com.spring.core.bean.Employee;
+
+/**
+ * @author KaustubhWaghmare
+ *
+ */
+public class App {
+	
+	@Autowired
+	Employee emp;
+	
+	public static void main(String args[])
+	{
+		//ApplicationContext ctx = new ClassPathXmlApplicationContext("springSingleton.xml"); // Singleton
+//		ApplicationContext ctx = new ClassPathXmlApplicationContext("springPrototype.xml"); // Prototype
+//		Employee champ = (Employee)ctx.getBean("employeeBean");
+//		champ.setEmpName("Champ");
+//    	System.out.println("Emp Name : " + champ.getEmpName());
+//    	
+//    	Employee master = (Employee)ctx.getBean("employeeBean");
+//    	System.out.println("Emp Name : " + master.getEmpName());
+		
+	}
+
+}

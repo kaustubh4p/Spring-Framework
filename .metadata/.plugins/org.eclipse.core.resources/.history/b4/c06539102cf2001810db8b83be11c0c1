@@ -1,0 +1,30 @@
+package com.spring.core.bean;
+
+/**
+ * @author KaustubhWaghmare
+ *
+ */
+
+@Service
+@Scope
+public class Employee {
+	private String empName;
+
+	/**
+	 * @return the empName
+	 */
+	public String getEmpName() {
+		return empName;
+	}
+
+	/**
+	 * @param empName the empName to set
+	 */
+	public void setEmpName(String empName) {
+		this.empName = empName;
+	}
+	
+	
+	
+
+}

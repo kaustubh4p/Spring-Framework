@@ -1,0 +1,13 @@
+package com.spring.core.bean;
+
+/**
+ * @author KaustubhWaghmare
+ *
+ */
+public class Human {
+	private String name;
+	private String language;
+	private int age;
+	
+
+}

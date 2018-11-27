@@ -1,0 +1,9 @@
+package com.spring.core.bean;
+
+public class Student {
+	private List<Object> lists;
+	private Set<Object> sets;
+	private Map<Object, Object> maps;
+	private Properties pros;
+
+}
