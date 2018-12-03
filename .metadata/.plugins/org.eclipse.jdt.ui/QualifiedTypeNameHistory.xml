@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.spring.core.bean.EmployeeBean"/>
+<fullyQualifiedTypeName name="com.spring.core.bean.CustomerImpl"/>
+<fullyQualifiedTypeName name="com.spring.core.bean.Customer"/>
+<fullyQualifiedTypeName name="com.spring.core.config.SchedulerConfig"/>
+<fullyQualifiedTypeName name="com.spring.core.bean.OutputGenerator"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Scope"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+<fullyQualifiedTypeName name="com.spring.core.bean.Employee"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.spring.core.bean.Student"/>
+</qualifiedTypeNameHistroy>
